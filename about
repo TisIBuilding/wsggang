@@ -3,5 +3,19 @@
 
 <body>
 <h1>About</h1>
+
+  <b1><p1>
+    <ul> 
+            <li><a href="index.html">Home</a></li> 
+            <li><a href="about.html">About</a></li> 
+            <li><a href="contact.html">Contact</a></li> 
+        </ul> 
+    
+    Here you can learn about the website. There ain't much but you can contact me in the contact page, or go back to the home page. 
+    That's kinda it.
+
+    Oh that's right I do have this...
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQs">One of my videos!</a></p>
+  </p1></b1>
 </body>
 </html>
